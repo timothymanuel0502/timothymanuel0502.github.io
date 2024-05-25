@@ -1,4 +1,4 @@
-# Data Scientist
+# Marketing Analyst
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
