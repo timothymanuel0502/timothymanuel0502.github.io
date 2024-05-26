@@ -1,7 +1,7 @@
 
 # Marketing Analyst
 
-#### Technical Skills: SQL, Tableau, Analytics Dashboard Creation, 
+#### Technical Skills: SQL, Tableau, Analytics Dashboard Creation, Python
 
 ## Education
 - B.S., Business Administration with a Concentration in Information Systems
