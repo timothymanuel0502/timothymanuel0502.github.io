@@ -4,3 +4,13 @@ description: Hello! I am a marketing analyst with strong technical skills in SQL
 
 #show_downloads: true
 theme: jekyll-theme-minimal
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XSJ8K3RX7Q"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XSJ8K3RX7Q');
+</script>
