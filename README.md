@@ -13,3 +13,12 @@
 - Created Looker Studio reports for 100+ clients
 - Used Microsoft Excel and Google Sheets to compile month-over-month data
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XSJ8K3RX7Q"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XSJ8K3RX7Q');
+</script>
